@@ -1,1 +1,4 @@
 
+[submodule "leveldb/src/main/cpp/leveldb"]
+	path = leveldb/src/main/cpp/leveldb
+	url = https://github.com/Mojang/leveldb.git
